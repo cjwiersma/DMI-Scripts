@@ -1,0 +1,1 @@
+winget update --all --include-unknown --accept-source-agreements --accept-package-agreements --silent
